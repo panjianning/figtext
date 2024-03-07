@@ -1,0 +1,16 @@
+[
+  {
+    "id": "golden",
+    "tag": [
+      "golden",
+      "metal"
+    ]
+  },
+  {
+    "id": "silver",
+    "tag": [
+      "silver",
+      "metal"
+    ]
+  }
+]
