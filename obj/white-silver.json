@@ -1,0 +1,59 @@
+{
+    "version": "1.0.0",
+    "text": "Regular",
+    "rectX": 0,
+    "rectY": 0,
+    "fontSize": "100",
+    "fontFamily": "Imperial Script",
+    "fontStyle": "Regular",
+    "fill1": "linear-gradient(90deg, #3f4140 0%, #878787 100%)",
+    "projectionDirection": "107",
+    "charSpacing": 0,
+    "projection1": {
+        "depth": "6",
+        "fill": "linear-gradient(90deg, #666 1.37%, #c8c8c8 15.53%, #fff 25.57%, #a7a7a7 41.55%, #e5e5e5 82.65%, #878787 93.61%)",
+        "fillStrategy": "layerwise"
+    },
+    "projection2": {
+        "depth": "6",
+        "fill": "linear-gradient(90deg, rgba(200,200,200,1) 0%, rgba(255,255,255,1) 100%)",
+        "fillStrategy": "interpolation"
+    },
+    "stroke1": {
+        "stroke": "#ffffff",
+        "strokeWidth": 3,
+        "strokeDashArray": null,
+        "strokeLineCap": "round",
+        "strokeLineJoin": "round",
+        "strokeMiterLimit": 4
+    },
+    "stroke1_1": {
+        "stroke": "#000000",
+        "strokeWidth": 0,
+        "strokeDashArray": null,
+        "strokeLineCap": "round",
+        "strokeLineJoin": "round",
+        "strokeMiterLimit": 4
+    },
+    "stroke2": {
+        "stroke": "#ffffff",
+        "strokeWidth": "16",
+        "strokeDashArray": null,
+        "strokeLineCap": "round",
+        "strokeLineJoin": "round",
+        "strokeMiterLimit": 4
+    },
+    "shadow": {
+        "color": "#000000",
+        "offsetX": 0,
+        "offsetY": 0,
+        "blur": 0
+    },
+    "bold": false,
+    "italic": false,
+    "lineSpacing": 1,
+    "angle": 0,
+    "align": "left",
+    "fill2": "#00000000",
+    "projectionStepSize": 0.5
+}
