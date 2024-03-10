@@ -12,5 +12,11 @@
       "silver",
       "metal"
     ]
+  },
+  {
+    "id": "white",
+    "tag": [
+      "white"
+    ]
   }
 ]
