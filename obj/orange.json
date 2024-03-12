@@ -1,0 +1,60 @@
+{
+    "version": "1.0.0",
+    "text": "Hi",
+    "rectX": 0,
+    "rectY": 0,
+    "fontSize": 100,
+    "fontFamily": "Arial",
+    "fontStyle": "Black",
+    "fill1": "linear-gradient(to right, rgb(255, 210, 61) 0%, rgb(255, 249, 93) 48.86%, rgb(255, 201, 57) 100%)",
+    "projectionDirection": 45,
+    "charSpacing": 0,
+    "projection1": {
+        "depth": "10",
+        "fill": "linear-gradient(to right, rgb(134, 34, 9) 0%, rgb(255, 123, 41) 100%)",
+        "fillStrategy": "interpolation"
+    },
+    "projection2": {
+        "depth": 0,
+        "fill": "linear-gradient(90deg, rgba(200,200,200,1) 0%, rgba(255,255,255,1) 100%)",
+        "fillStrategy": "interpolation"
+    },
+    "stroke1": {
+        "stroke": "#ffffff",
+        "strokeWidth": "0",
+        "strokeDashArray": null,
+        "strokeLineCap": "round",
+        "strokeLineJoin": "round",
+        "strokeMiterLimit": 4
+    },
+    "stroke1_1": {
+        "stroke": "#000000",
+        "strokeWidth": "0",
+        "strokeDashArray": null,
+        "strokeLineCap": "round",
+        "strokeLineJoin": "round",
+        "strokeMiterLimit": 4
+    },
+    "stroke2": {
+        "stroke": "#fff",
+        "strokeWidth": "0",
+        "strokeDashArray": null,
+        "strokeLineCap": "round",
+        "strokeLineJoin": "round",
+        "strokeMiterLimit": 4
+    },
+    "shadow": {
+        "color": "#000000",
+        "offsetX": 0,
+        "offsetY": 0,
+        "blur": 0
+    },
+    "bold": false,
+    "italic": false,
+    "lineSpacing": 1,
+    "angle": 0,
+    "align": "left",
+    "fill2": "#00000000",
+    "projectionStepSize": 0.5,
+    "quality": 3
+}
