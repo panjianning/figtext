@@ -1,0 +1,60 @@
+{
+    "version": "1.0.0",
+    "text": "2024",
+    "rectX": 0,
+    "rectY": 0,
+    "fontSize": 100,
+    "fontFamily": "Roboto Slab",
+    "fontStyle": "Black",
+    "fill1": "linear-gradient(180deg, rgba(249,249,249,1) 0%, rgba(251,239,169,1) 45.21%, rgba(96,34,16,1) 45.66%, rgba(255,229,97,1) 77.17%, rgba(252,249,202,1) 100%)",
+    "projectionDirection": "45",
+    "charSpacing": 0,
+    "projection1": {
+        "depth": "7",
+        "fill": "linear-gradient(189deg, rgba(144,79,4,1) 8.22%, rgba(84,16,1,1) 20.55%, rgba(246,177,55,1) 50.23%, rgba(174,107,5,1) 51.14%, rgba(139,77,16,1) 57.53%, rgba(90,24,2,1) 64.84%, rgba(90,24,2,1) 68.49%, rgba(139,77,16,1) 76.26%, rgba(254,229,110,1) 81.74%, rgba(144,80,0,1) 96.35%)",
+        "fillStrategy": "layerwise"
+    },
+    "projection2": {
+        "depth": 0,
+        "fill": "linear-gradient(90deg, rgba(200,200,200,1) 0%, rgba(255,255,255,1) 100%)",
+        "fillStrategy": "interpolation"
+    },
+    "stroke1": {
+        "stroke": "#ffffff",
+        "strokeWidth": "0",
+        "strokeDashArray": null,
+        "strokeLineCap": "round",
+        "strokeLineJoin": "round",
+        "strokeMiterLimit": 4
+    },
+    "stroke1_1": {
+        "stroke": "#000000",
+        "strokeWidth": 0,
+        "strokeDashArray": null,
+        "strokeLineCap": "round",
+        "strokeLineJoin": "round",
+        "strokeMiterLimit": 4
+    },
+    "stroke2": {
+        "stroke": "#ffffff",
+        "strokeWidth": 0,
+        "strokeDashArray": null,
+        "strokeLineCap": "round",
+        "strokeLineJoin": "round",
+        "strokeMiterLimit": 4
+    },
+    "shadow": {
+        "color": "#000000",
+        "offsetX": 0,
+        "offsetY": 0,
+        "blur": 0
+    },
+    "quality": "3",
+    "bold": false,
+    "italic": false,
+    "lineSpacing": 1,
+    "angle": 0,
+    "align": "left",
+    "fill2": "#00000000",
+    "projectionStepSize": 0.5
+}
