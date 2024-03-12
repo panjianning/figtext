@@ -32,5 +32,12 @@
       "golden",
       "metal"
     ]
+  },
+  {
+    "id": "cartoon",
+    "tag": [
+      "cartoon",
+      "white"
+    ]
   }
 ]
