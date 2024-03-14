@@ -19,6 +19,7 @@
     ],
     "isPro": true
   },
+
   {
     "id": "golden2",
     "tag": [
@@ -38,6 +39,12 @@
     "tag": [
       "cartoon",
       "white"
+    ]
+  },
+  {
+    "id": "colorful",
+    "tag": [
+      "colorful"
     ]
   },
   {
