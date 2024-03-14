@@ -1,12 +1,5 @@
 [
   {
-    "id": "golden",
-    "tag": [
-      "golden",
-      "metal"
-    ]
-  },
-  {
     "id": "silver",
     "tag": [
       "silver",
@@ -28,6 +21,13 @@
   },
   {
     "id": "golden2",
+    "tag": [
+      "golden",
+      "metal"
+    ]
+  },
+  {
+    "id": "golden",
     "tag": [
       "golden",
       "metal"
@@ -97,7 +97,7 @@
   {
     "id": "handwritten2",
     "tag": [
-      "handwritten2"
+      "handwritten"
     ]
   }
 ]
