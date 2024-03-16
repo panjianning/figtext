@@ -127,5 +127,17 @@
     "tag": [
       "handwritten"
     ]
+  },
+  {
+    "id": "colorful2",
+    "tag": [
+      "colorful"
+    ]
+  },
+  {
+    "id": "black3",
+    "tag": [
+      "black"
+    ]
   }
 ]
