@@ -1,5 +1,12 @@
 [
   {
+    "id": "pink",
+    "tag": [
+      "pink"
+    ],
+    "isPro": true
+  },
+  {
     "id": "silver",
     "tag": [
       "silver",
@@ -19,12 +26,26 @@
     ],
     "isPro": true
   },
-
   {
     "id": "golden2",
     "tag": [
       "golden",
       "metal"
+    ]
+  },
+  {
+    "id": "white-gold",
+    "tag": [
+      "white",
+      "golden"
+    ],
+    "isPro": true
+  },
+  {
+    "id": "black2",
+    "tag": [
+      "black",
+      "golden"
     ]
   },
   {
